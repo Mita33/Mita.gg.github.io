@@ -54,14 +54,12 @@ table {
     border-spacing: 0;
 }
 
-i{
-  font-size: 14;
-  font-style: italic;
-  text-align: center;
-}
+
+
 p{
-  font-style: italic;
+  font-size: 14;
   text-align: center;
+  padding-bottom: 5px;
 }
 
 a:link {
@@ -88,3 +86,17 @@ h1 {
     font-style: italic;
     font-size: 4em;
 }
+
+.blogpost {
+  width: 500px;
+}
+
+
+i{
+  font-size: 14;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+}
+
+
