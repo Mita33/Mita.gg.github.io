@@ -63,12 +63,12 @@ p{
 }
 
 a:link {
-  color: blue;
+  color: rgb(255, 255, 255);
 }
 
-/* visited link */
+/* visited link color: blue; */
 a:visited {
-  color: blue;
+  color: rgb(255, 255, 255);
 }
 
 /* mouse over link */
